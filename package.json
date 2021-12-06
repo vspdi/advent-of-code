@@ -5,6 +5,7 @@
 	"repository": "git@github.com:vspdi/advent-of-code-2021.git",
 	"license": "MIT",
 	"dependencies": {
+		"chalk": "^4.1.2",
 		"fs-extra": "^10.0.0"
 	},
 	"devDependencies": {
